@@ -39,4 +39,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashank1828&show_icons=true&locale=en" alt="shashank1828" /></p>
 
+![AWS Certified](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazonaws)
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank1828&" alt="shashank1828" /></p>
