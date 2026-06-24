@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashank Kumar</h1>
-<h3 align="center">A passionate frontend developer and Data Analyst from India</h3>
+<h3 align="center">From designing sleek frontends to architecting solutions in the cloud — I thrive at the intersection of creativity and technology. Certified AWS Cloud Practitioner, now diving into Generative AI with Google ADK while sharpening my skills in automation testing. Always learning, always building.</h3>
 
 <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashank1828" alt="shashank1828" /></a> </p>
 
-- 🔭 I’m currently working on *CodeCapture*
+- 🔭 I’m currently working on *My first GenAI Application*
 
-- 🌱 I’m currently learning *React.js*
+- 🌱 I’m currently learning *GenAI*
 
-- 💬 Ask me about *Python Libraries*
+- 💬 Ask me about *How To From vapor to rainfall, from code to deployment*
 
 - 📫 How to reach me *beingshashankk@gmail.com*
 
